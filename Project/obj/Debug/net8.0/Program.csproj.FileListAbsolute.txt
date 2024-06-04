@@ -1,0 +1,7 @@
+/Users/5_vania_5/RiderProjects/Management system/Program/obj/Debug/net8.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/5_vania_5/RiderProjects/Management system/Program/obj/Debug/net8.0/Program.AssemblyInfoInputs.cache
+/Users/5_vania_5/RiderProjects/Management system/Program/obj/Debug/net8.0/Program.AssemblyInfo.cs
+/Users/5_vania_5/RiderProjects/Management system/Program/obj/Debug/net8.0/Program.csproj.CoreCompileInputs.cache
+/Users/5_vania_5/RiderProjects/Management system/Program/obj/Debug/net8.0/Program.MvcApplicationPartsAssemblyInfo.cache
+/Users/5_vania_5/RiderProjects/Management system/Program/obj/Debug/net8.0/Program.RazorAssemblyInfo.cache
+/Users/5_vania_5/RiderProjects/Management system/Program/obj/Debug/net8.0/Program.RazorAssemblyInfo.cs

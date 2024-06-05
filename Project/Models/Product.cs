@@ -2,11 +2,13 @@ namespace Project.Models;
 
 public class Product
 {
-    public string? Name { get; set; }
+    public required string Name { get; set; }
 
-    public int Id { get; set; }
+    public Guid Id { get; set; }
     
     public decimal Price { get; set; }
     
-    public string? Category { get; set; }
+    public required string Currency { get; set; }
+    
+    public required string Category { get; set; }
 }

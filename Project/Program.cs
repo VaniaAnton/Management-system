@@ -1,3 +1,19 @@
+using MongoDB.Driver;
+
+var mongodbUrl = 
+    "mongodb+srv://admin:admin1234@management-system.c0xs7ix.mongodb.net/?retryWrites=true&w=majority&appName=Management-system";
+
+var client = new MongoClient (mongodbUrl);
+
+var dbList = client.ListDatabases().ToList();
+
+Console.WriteLine ("The list of databases on this server is: ");
+foreach (var db in dbList)
+{
+    Console.WriteLine(db);
+
+}
+// ------------------------------------------
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
